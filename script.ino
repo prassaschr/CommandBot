@@ -39,9 +39,6 @@
 volatile bool telegramButtonPressedFlag = false;
 volatile char bootFlag = 'a';
 //define your default values here, if there are different values in config.json, they are overwritten.
-//char mqtt_server[40];
-//char mqtt_port[6] = "8080";
-//char blynk_token[34] = "YOUR_BLYNK_TOKEN";
 // Telegram BOT configuration data
 #define BOTtoken "XXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  // your Bot Token (Get from Botfather)
 #define CHAT_IDD "XXXXXXXXXX"

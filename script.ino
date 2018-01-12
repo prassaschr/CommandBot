@@ -36,9 +36,9 @@
 //char ssid[] = "XXXXXX";     // your network SSID (name)
 //char password[] = "XXXXXXXXXX"; // your network key
 
-const int FW_VERSION = 1244;
+const int FW_VERSION = 2018011301;
 const char* fwUrlBase = "https://your_site.com/fota/";
-
+bool HTTP_OTA = false;
 
 
 volatile bool telegramButtonPressedFlag = false;

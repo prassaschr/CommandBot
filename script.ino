@@ -11,7 +11,8 @@
  * http://esp8266.github.io/Arduino/versions/2.0.0/doc/ota_updates/ota_updates.html#arduinoota-configuration                *
  * http://iot-playground.com/blog/2-uncategorised/92-esp8266-internet-connected-4-relay-switch#materials                    *
  * https://github.com/vshymanskyy/TinyGSM                                                                                   *
- * https://github.com/skorokithakis/A6lib                                                                                   *
+ * https://github.com/skorokithakis/A6lib
+ * https://www.bakke.online/index.php/2017/06/02/self-updating-ota-firmware-for-esp8266/
  *  IO index ESP8266 pin IO index  ESP8266 pin                                                                              *
  *   0 [*] GPIO16     7 GPIO13                                                                                              *
  *   1 GPIO5          8 GPIO15                                                                                              *

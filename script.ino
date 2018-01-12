@@ -13,6 +13,7 @@
  * https://github.com/vshymanskyy/TinyGSM                                                                                   *
  * https://github.com/skorokithakis/A6lib
  * https://www.bakke.online/index.php/2017/06/02/self-updating-ota-firmware-for-esp8266/
+ * https://community.blynk.cc/t/self-updating-from-web-server-http-ota-firmware-for-esp8266/18544/3
  *  IO index ESP8266 pin IO index  ESP8266 pin                                                                              *
  *   0 [*] GPIO16     7 GPIO13                                                                                              *
  *   1 GPIO5          8 GPIO15                                                                                              *

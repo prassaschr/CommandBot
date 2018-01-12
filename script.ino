@@ -56,6 +56,8 @@ void saveConfigCallback () {
   shouldSaveConfig = true;
 }
 
+//To the server add 2 files. One **.bin file with ** the MAC address of the device. The other file is **.version with ** the MAC address of the device.
+//Inside the version file add the next version.
 void checkForUpdates() {
   String mac = getMAC();
   String fwURL = String( fwUrlBase );

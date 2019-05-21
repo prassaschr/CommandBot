@@ -253,7 +253,7 @@ void setup() {
   wifiManager.setSaveConfigCallback(saveConfigCallback);
 
     
-  wifiManager.autoConnect("ESP8266-Setup", "makedonia");
+  wifiManager.autoConnect("ESP8266-Setup", "wifi-password");
   pinMode(2, OUTPUT);
   
   pinMode(ledPin, OUTPUT); // initialize digital ledPin as an output.
